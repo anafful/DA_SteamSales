@@ -9,5 +9,6 @@ In this file:
 
 Exploratory Data Analysis
 
+<img width="1908" height="534" alt="image" src="https://github.com/user-attachments/assets/3cd2216d-bcd1-4198-8af3-54d83080cbc0" />
 
 
