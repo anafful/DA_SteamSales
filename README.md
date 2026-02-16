@@ -8,20 +8,20 @@ There is one file attached to the repository which act as a single file for the 
 # Project Objective
 To create an report of game releases over 5 years.
 
-### H3 Dataset used
+# Dataset used
 
 https://www.kaggle.com/datasets/jypenpen54534/steam-games-dataset-2021-2025-65k
 
 
-In this file:
+## Process
 
-Exploratory Data Analysis
+
 
 
 Cleaning Data
 
 
-Questionss(KPIs)
+### Questionss(KPIs)
 
 <img width="1908" height="534" alt="image" src="https://github.com/user-attachments/assets/3cd2216d-bcd1-4198-8af3-54d83080cbc0" />&nbsp;&nbsp;&nbsp;
 
@@ -34,3 +34,8 @@ Creating Queries
 
 
 
+##Dashboard
+
+## Project Insight
+
+## Final Conclusion
