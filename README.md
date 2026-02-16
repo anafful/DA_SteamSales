@@ -21,3 +21,7 @@ Creating Queries
 <img width="908" height="447" alt="image" src="https://github.com/user-attachments/assets/e39f3dfd-75c5-4b73-baf2-3b41bc10098b" />&nbsp;&nbsp;&nbsp;
 
 
+<img width="1585" height="337" alt="image" src="https://github.com/user-attachments/assets/0b8d4e38-9492-4fa7-8d7c-b5e77555368b" />&nbsp;&nbsp;&nbsp;
+
+
+
