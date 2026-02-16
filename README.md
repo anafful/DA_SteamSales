@@ -5,7 +5,7 @@ This readme.md file will act as an information file:
 
 There is one file attached to the repository which act as a single file for the data analysis
 
-Project Objective
+# Project Objective
 To create an report of game releases over 5 years.
 
 Dataset used
