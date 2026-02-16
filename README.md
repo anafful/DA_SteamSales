@@ -14,10 +14,10 @@ Cleaning Data
 
 
 
-<img width="1908" height="534" alt="image" src="https://github.com/user-attachments/assets/3cd2216d-bcd1-4198-8af3-54d83080cbc0" />
+<img width="1908" height="534" alt="image" src="https://github.com/user-attachments/assets/3cd2216d-bcd1-4198-8af3-54d83080cbc0" />&nbsp;&nbsp;&nbsp;
 
 
 Creating Queries 
-<img width="908" height="447" alt="image" src="https://github.com/user-attachments/assets/e39f3dfd-75c5-4b73-baf2-3b41bc10098b" />
+<img width="908" height="447" alt="image" src="https://github.com/user-attachments/assets/e39f3dfd-75c5-4b73-baf2-3b41bc10098b" />&nbsp;&nbsp;&nbsp;
 
 
