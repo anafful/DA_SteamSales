@@ -7,6 +7,8 @@ The analysis focuses on publishing activity and market structure rather than sal
 
 The workflow combines Excel (Power Query) for data preparation and Tableau for interactive visual analysis.
 
+https://public.tableau.com/app/profile/annabelle.afful/viz/newsteamportfolio/Trends
+
 ---
 
 ## Project Objective
