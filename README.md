@@ -124,7 +124,7 @@ The Tableau dashboard examines release behaviour and category patterns.
 
 ## Dashboard
 
-[![Steam Dashboard](images/steam-dashboard.png)](https://public.tableau.com/app/profile/annabelle.afful/viz/newsteamportfolio/Trends)
+https://public.tableau.com/app/profile/annabelle.afful/viz/newsteamportfolio/Trends
 
 ---
 
